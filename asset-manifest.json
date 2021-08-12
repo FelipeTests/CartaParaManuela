@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CartaParaManuela/static/css/main.8608bc7f.chunk.css",
-    "main.js": "/CartaParaManuela/static/js/main.918b97c0.chunk.js",
-    "main.js.map": "/CartaParaManuela/static/js/main.918b97c0.chunk.js.map",
+    "main.js": "/CartaParaManuela/static/js/main.2f64a628.chunk.js",
+    "main.js.map": "/CartaParaManuela/static/js/main.2f64a628.chunk.js.map",
     "runtime-main.js": "/CartaParaManuela/static/js/runtime-main.18347bf5.js",
     "runtime-main.js.map": "/CartaParaManuela/static/js/runtime-main.18347bf5.js.map",
-    "static/js/2.3fc5e153.chunk.js": "/CartaParaManuela/static/js/2.3fc5e153.chunk.js",
-    "static/js/2.3fc5e153.chunk.js.map": "/CartaParaManuela/static/js/2.3fc5e153.chunk.js.map",
+    "static/js/2.d582d82e.chunk.js": "/CartaParaManuela/static/js/2.d582d82e.chunk.js",
+    "static/js/2.d582d82e.chunk.js.map": "/CartaParaManuela/static/js/2.d582d82e.chunk.js.map",
     "index.html": "/CartaParaManuela/index.html",
     "static/css/main.8608bc7f.chunk.css.map": "/CartaParaManuela/static/css/main.8608bc7f.chunk.css.map",
-    "static/js/2.3fc5e153.chunk.js.LICENSE.txt": "/CartaParaManuela/static/js/2.3fc5e153.chunk.js.LICENSE.txt",
+    "static/js/2.d582d82e.chunk.js.LICENSE.txt": "/CartaParaManuela/static/js/2.d582d82e.chunk.js.LICENSE.txt",
     "static/media/background2.77639ed7.jpeg": "/CartaParaManuela/static/media/background2.77639ed7.jpeg",
     "static/media/background3.88669289.jpeg": "/CartaParaManuela/static/media/background3.88669289.jpeg",
     "static/media/background4.314509f3.jpeg": "/CartaParaManuela/static/media/background4.314509f3.jpeg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.18347bf5.js",
-    "static/js/2.3fc5e153.chunk.js",
+    "static/js/2.d582d82e.chunk.js",
     "static/css/main.8608bc7f.chunk.css",
-    "static/js/main.918b97c0.chunk.js"
+    "static/js/main.2f64a628.chunk.js"
   ]
 }
